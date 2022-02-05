@@ -1,5 +1,5 @@
 # Introdução 
-Projeto para salvar imagens em pastas por dia, e realiza limpeza das pastas com tempo de 4 dias anteriores, projeto pode ser utilizado para fazer monitoramento de imagens e salvar backup dessas imagens
+Projeto para salvar imagens em pasta por dia, e realiza limpeza das pasta com tempo de 4 dias anteriores, projeto pode ser utilizado para fazer monitoramento de imagens e salvar backup dessas imagens
 
 
 # Software
